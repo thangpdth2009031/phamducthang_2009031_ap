@@ -1,0 +1,6 @@
+C:\Users\Pham Thang\RiderProjects\phamducthangT2009m1\phamducthangT2009m1\bin\Debug\phamducthangT2009m1.exe
+C:\Users\Pham Thang\RiderProjects\phamducthangT2009m1\phamducthangT2009m1\bin\Debug\phamducthangT2009m1.pdb
+C:\Users\Pham Thang\RiderProjects\phamducthangT2009m1\phamducthangT2009m1\obj\Debug\phamducthangT2009m1.csprojAssemblyReference.cache
+C:\Users\Pham Thang\RiderProjects\phamducthangT2009m1\phamducthangT2009m1\obj\Debug\phamducthangT2009m1.csproj.CoreCompileInputs.cache
+C:\Users\Pham Thang\RiderProjects\phamducthangT2009m1\phamducthangT2009m1\obj\Debug\phamducthangT2009m1.exe
+C:\Users\Pham Thang\RiderProjects\phamducthangT2009m1\phamducthangT2009m1\obj\Debug\phamducthangT2009m1.pdb

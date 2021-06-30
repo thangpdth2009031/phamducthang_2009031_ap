@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phamducthangT2009m1", "phamducthangT2009m1\phamducthangT2009m1.csproj", "{80188D08-3BBD-47FD-9C39-ECDC8B790BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80188D08-3BBD-47FD-9C39-ECDC8B790BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80188D08-3BBD-47FD-9C39-ECDC8B790BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80188D08-3BBD-47FD-9C39-ECDC8B790BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80188D08-3BBD-47FD-9C39-ECDC8B790BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
